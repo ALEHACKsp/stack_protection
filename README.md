@@ -4,7 +4,7 @@ MSVC works.
 
 ICC not tested.
 
-## скриншоты
+## screens
 
 ![](img/1.png)
 
