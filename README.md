@@ -2,7 +2,7 @@
 
 MSVC works.
 
-ICC not tested.
+ICC works with /Qip-no-pinlining
 
 ## screens
 
